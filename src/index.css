@@ -12,3 +12,64 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+
+.card{
+  position: relative;
+}
+
+.card-image{
+  max-height: 80% !important;
+}
+
+.product-img{
+  height: -webkit-fill-available !important;
+}
+
+
+.card-content{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  height: 25% !important;
+  top: 225px !important;
+  padding-bottom: 0px !important;
+  padding-top: 10px !important;
+  padding-right: 0px !important;
+  padding-left: 0px !important;
+}
+
+
+.product-info{
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.shopping-cart{
+  border: 2px solid #607d8b ;
+  border-radius: 10px;
+  margin-top: 30px;
+  height: 350px;
+  position: fixed;
+  right: 0px !important;
+
+}
+
+.shopping-cart-text{
+  font-family: sans-serif;
+}
+
+.wrapper{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.check-out{
+  top: 80px;
+  float:none;
+  display: inline-block;
+}
