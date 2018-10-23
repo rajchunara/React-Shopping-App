@@ -14,7 +14,7 @@
     "redux": "^4.0.1",
     "uniqid": "^5.0.3"
   },
-  "homepage":"https://rajchunara.githun.io/React-Shopping-App",
+  "homepage":"https://rajchunara.github.io/React-Shopping-App",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
